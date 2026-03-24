@@ -58,7 +58,7 @@ The notebook generates **16 charts** including:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/ai-job-market-analysis.git
+   git clone https://github.com/Devashree2204/AI-job-market-analysis.git
    cd ai-job-market-analysis
    ```
 
